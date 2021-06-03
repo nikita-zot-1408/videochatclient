@@ -106,7 +106,7 @@ const Options = ({ children }) => {
                   onClick={() => callUser(idToCall)}
                   className={classes.margin}
                 >
-                  Call
+                  Join room
                 </Button>
               )}
             </Grid>
